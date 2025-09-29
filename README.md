@@ -13,14 +13,13 @@ This software began as an internal utility at **InPatent Professionals LLP**, an
 - **Renewal fees:** 3rd–20th year, with **Concessional** (Natural Person, MSME, Startup, and Educational Institute) vs **Others** (All others who aren't concessional) categories.
 - **Currency support:** enter your own rate (INR per 1 unit). Shows **Nominal** and **Indicative Quote Range** (2–7% buffer).
 - **Outputs:** tabular breakdowns and one-click **export.txt** quotes.
-- **UX niceties:** green “Calculate” buttons; footer with firm brand; larger bold totals.
 
 
 ## 📥 Download
 
 Download the latest `.exe`.
 
-> Windows SmartScreen may warn about unsigned executables. Click **More info → Run anyway** to proceed. (If you use a signed build, the warning should be reduced or not appear.)
+> Windows SmartScreen may warn about unsigned executables. If you wish to proceed, click **More info → Run anyway**.
 
 
 ## 🧭 How to Use
