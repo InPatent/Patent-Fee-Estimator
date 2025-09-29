@@ -5,7 +5,7 @@ A free desktop tool by **InPatent Professionals LLP, New Delhi** to estimate off
 
 ## About
 
-This software began as an internal utility at **InPatent Professionals LLP** and is now made publicly available for anyone who wants a quick, self-serve estimator. While it is free to use for personal and professional/business purposes, please review and respect the terms in [LICENSE.txt](LICENSE.txt). Use constitutes acceptance of those terms.
+This software began as an internal utility at **InPatent Professionals LLP**, and a community version of the same is now made publicly available for anyone who wants a quick, self-serve estimator. While it is free to use for personal and professional/business purposes, please review and respect the terms in [LICENSE.txt](LICENSE.txt). Use constitutes acceptance of those terms.
 
 
 ## ✨ Features
