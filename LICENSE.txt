@@ -1,0 +1,23 @@
+Patent Fee Estimator/Calculator (India) — © 2025 InPatent Professionals LLP, New Delhi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the
+executable file (“the Software”), to use, copy, and redistribute the Software in its
+unmodified form for personal and commercial purposes, subject to the following conditions:
+
+1. The Software shall not be reverse-engineered, modified, or used to create derivative
+   works, except where expressly permitted by applicable law.
+2. This copyright notice and permission notice shall be included with all copies
+   and redistributions of the Software.
+3. Use of the Software does not imply any endorsement or professional relationship
+   beyond this permission grant.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
+
+Advisory: Patent fee amounts and exchange rates fluctuate. This Software is an estimator
+only. Users must verify official amounts with the Indian Patent Office and check current
+exchange rates from a reliable source before relying on any estimate.
