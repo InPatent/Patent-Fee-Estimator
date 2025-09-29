@@ -9,7 +9,7 @@ unmodified form for personal and commercial purposes, subject to the following c
 2. This copyright notice and permission notice shall be included with all copies
    and redistributions of the Software.
 3. Use of the Software does not imply any endorsement or professional relationship
-   beyond this permission grant.
+   beyond this permission grant. 
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
 INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
